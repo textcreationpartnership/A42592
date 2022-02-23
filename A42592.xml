@@ -1,0 +1,671 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gemitus de carcere Nantes, or, Prison-sighs and supports being a few broken scraps and crumbs of comfort lately fallen from the great kings table, the Holy Scriptures, into the prisoners basket : who being satisfied, let fall (through the grate) a few leavings for the hungry souls abroad, till God send more plenty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42592</idno>
+            <idno type="STC">Wing G482</idno>
+            <idno type="STC">ESTC R31724</idno>
+            <idno type="EEBO-CITATION">12248212</idno>
+            <idno type="OCLC">ocm 12248212</idno>
+            <idno type="VID">57010</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57010)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1504:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gemitus de carcere Nantes, or, Prison-sighs and supports being a few broken scraps and crumbs of comfort lately fallen from the great kings table, the Holy Scriptures, into the prisoners basket : who being satisfied, let fall (through the grate) a few leavings for the hungry souls abroad, till God send more plenty.</title>
+               </titleStmt>
+               <extent>[4], 12, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained and tightyly bound with print showthrough and loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Freedom of religion.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57010:1" rendition="simple:additions"/>
+            <p>
+               <hi>Gemitus de Carcere Nantes.</hi> OR, Priſon-Sighs, AND <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>UPPORTS, BEING <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Few BROKEN SCRAPS AND Crumbs of Comfort.</p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ly fallen from the great Kings Table, the Holy <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>iptures; into the Priſoners Basket; who being ſatisfied, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fall (through the Grate) a few Leavings, for the Hungry <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s abroad, till God ſend more Plenty.</p>
+            <p>
+               <hi>Meliora Speranda.</hi>
+            </p>
+            <q>
+               <bibl>Pſal. 69. 33.</bibl> The Lord Deſpiſes not his Priſoners.</q>
+            <figure>
+               <q>
+                  <hi>Uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> quo domine?</hi>
+               </q>
+            </figure>
+            <q>
+               <bibl>Rev. 6. 10.</bibl> How long Lord? &amp;c.</q>
+            <p>
+               <hi>London,</hi> Printed in the Year. 1684.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:57010:2"/>
+            <pb facs="tcp:57010:2"/>
+            <head>TO THE READER</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>THou haſt herein Priſon Viſits Repay'd; with a Groan, from them immur'd within, Ecchoing to them at Liberty without: 'Tis Pity their juſt Defence that ſuffer, ſhould be an Offence to any; or that the Hope of Righteouſneſs to come, in them that Feed in Stone Walls at preſent, ſhould obtain no Softer Uſage, then Words harder then the Walls of a Priſon: but Patience is both our Duty, and Dignity, till he comes that will take Account for Idle and Hard Speeches; (panton ton ſkleroon)</hi> Jud. 15. <hi>hard to prove, and harder to bear.</hi>
+            </p>
+            <p>
+               <hi>Now, two things make theſe Stony Reſtraints Tollerable if not Comfortable, the one ſtore of Water, (that is) Tears and Sighs to Soften hard things, and waſh away Filth: The other Sweet Herbs to Adorn and Refreſh: Of both ſorts, the two Sheets following give a Taſte to the Hungry.</hi>
+            </p>
+            <p>
+               <hi>If any ask us what we do in Priſon? We Anſwer, we Sigh and Cry to him, whoſe Ears are open,</hi> Pſal. 34. 15. <hi>to the Cry of the juſt (or as the Gr. is) in their Cry, but our doing now is by way of Suffering, our Witneſs more ſilent and ſtill, but as true and effectual. If any grudge this Freedom, 'Tis but our Duty to ſend the Hungry a few of our Scraps, to ſtay their Appetites (till more comes) that Spiritual Crumbs of</hi> Manna <hi>may Feed thoſe that Suffer loſs of Goods, by Temporal Spoiles, and Rapine.</hi>
+            </p>
+            <p>
+               <hi>If the Pris'ners Basket goes about, not to Crave but carry broken</hi>
+               <pb facs="tcp:57010:3"/> 
+               <hi>Meat in time of Famine, 'tis Pity any ſhould envy, either the Bread, or the Eater;</hi> To the Hungry even bitter things are Sweet: <hi>Prov.</hi> 27. 7. <hi>If any love to Quaff (as that Pro<g ref="char:EOLhyphen"/>fane</hi> Belſhazzar, Dan. 5. <hi>did) in our Tears; much good do't them: So we ſay to the Lords Lambs, till God ſend Plenty: and Chriſt be your Food, Dear Souls.</hi>
+            </p>
+            <p>
+               <hi>Theſe things had crept through the Grate ſooner, had not the Preſs without, been oppreſt by ſad Obſtructions, and ſome of the Priſoners within, by Multiply'd Tryals, and growing bonds: ſo that ſome expect no Manumiſſion (in an ordinary way) till Death Arreſts us, (or our keepers) by an</hi> Habeas Corpus, cum Cauſa <hi>to Anſwer at the Kings-Bench, and Ultimate Tribunal: and then (if not before) comes our</hi> Audit, <hi>and good Deliverance. Nor are ſome of us Anxious or Avidous of Liberation, till our Word comes, and God (and the King) by a Golden Key cauſe Pulpit, and Priſon Doors to fly op'n at once; and then our Liberty may be of Uſe for God, and the good of Souls: (the beſt End of Life) In the</hi> Interim, <hi>our Patience muſt poſſeſs our Souls, being well Sa<g ref="char:EOLhyphen"/>tisfy'd that our Priſon Sighs, and Cryes, (if our Cauſe be good) are Preferable to Dumb Pulpits, and Dear-bought Liberties by Inſnaring Bonds, or Sinful Complyances mixt with the Terrours that moſt Worſhippers are now Expoſed too: The Lord ſend us all a Good Deliverance.</hi>
+            </p>
+            <closer>
+               <salute>VALE.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:57010:3"/>
+            <head>Priſoners Sighs, and Supports.</head>
+            <div type="part">
+               <p>COnſidering it has been the lot of the beſt and nobleſt Souls, that have bore mortal Fleſh <hi>(even Chriſt Himſelf)</hi> to be in Priſon for a good cauſe, yea, in a Native Land; And that God has an open ear to the Groans of ſuch; And finding the kindneſs of Auditors and Viſitors, not otherwiſe to the compenſated, 'tis meet (till debts can be paid, in full) to pay in part, by Lines<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> And ſeeing Stone Walls are but Dumb Preachers, 'tis very Lawful to make the juſt cryes on the inſide, to <hi>Eccho</hi> to all without: That ſome that envy'd our Li<g ref="char:EOLhyphen"/>berty, may (by ſeeing their own) pitty our Captivity, and others joyn their Supplications to our Sighs, for the Goſpel, and Chriſts ſake.</p>
+               <p>To that End let Chriſtians at Liberty; <hi>Eccho</hi> to us in bonds, ſenſing both our Priſon Sorrows, and Supports, the one in this ſheet, the o<g ref="char:EOLhyphen"/>ther in the next.</p>
+               <p>For the firſt, though no Chriſtian, who deſerves that Royal Stile, and knows what Sin and Sorrow meanes, can want his Sighs; Yet Pris'ners<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for Religion, yea thinking Perſons at Liberty, with whom any ſeri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Piety, or thoughts of Eternity do obtain; cannot well abandon ſuch ſecret efforts of mind, (now when the whole Creation Groans,) as theſe following Sighs and Tears, utter: And ſounds reverberate, and <hi>Eccho</hi> beſt on the Waters.</p>
+               <p>
+                  <hi>Now firſt,</hi> To begin at the root, all ſorrow is the Fruit of Sin: He's a Sot that Snarles at the Stone, (as Dogs do) not eying the hand that ſent it: No Man how good ſoever his cauſe is, but may find Sin enough Perſonally demerriting the Rod though not from Men: And as God may at the ſame time inflict a ſcourge juſtly for Sin, and yet permit a Tryal to befal us by Men unjuſtly, and in both lay on a Sanctify'd Croſs: So we may in the ſame breath both condole our Sin and Captivity, the yoke of our Tranſgreſſion, being wreathed by Gods hand, and alſo enter our juſt appeal to God, the juſt Judge for our Defence and Vindication.</p>
+               <p>And as each is call'd individually in ſecret to Mourn for his own; ſo for others Sins; and the Oppreſſions of the Day, under which our Li<g ref="char:EOLhyphen"/>berties groan; God in Wiſdom, laying Sufferings on ſome, in a Body Politick, though Innocent; for the ſake of the nocent: And this is one of our Groans.</p>
+               <p>
+                  <hi>Secondly,</hi> Some Priſons are as <hi>Joſephs</hi> ſtrait Dungeons, that allow us not the <hi>Jura humanae Naturae;</hi> and like the Houſe of <hi>Jonathan. Jer.</hi> 37. 20. Dirty holes to the Prophets of God: <hi>Chap.</hi> 38. And ſome of the Keepers <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gged ſevere <hi>Potiphars,</hi> like <hi>Paul's Goaler, Acts</hi> 16. 22. (though
+<pb n="2" facs="tcp:57010:4"/> ſome have no cauſe to complain ſo,) ſuch as ſome of the <hi>Marian</hi> Martyrs Suffered and Sigh'd under; turgid <hi>Alexanders</hi> that for gain can torment the Pious, and Favour profane Capital Criminals: <hi>S. R.</hi> Complain'd that to the Pious; Law and Juſtice was deny'd, which Rogues and M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>therers have gratis, for Gods ſake.</p>
+               <p>
+                  <hi>Thirdly,</hi> To be clapt up and ſo forgot is a deep Sigh: This was the Chief Butlers fault, and <hi>Joſeph</hi>'s Caſe, recogniz'd (occaſionally) by <hi>P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>raoh</hi>'s Dream; <hi>Gen.</hi> 49. 17. Though Reaſon might have taught more g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>titude to <hi>Joſeph,</hi> that foretold his happy Reſtoration: Men in reſtra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may gladly hear good Tydings, that in Honour forget their <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> Fellows, and Friends: And being advanc'd too high, daign not a look, or recognition, to Equals now below them: And to be forgot is in a ſort to be as one Dead, or Buryed alive, <hi>Pſal.</hi> 88. 8. 18. Few grieve for <hi>Jo<g ref="char:EOLhyphen"/>ſephs</hi> affliction (or ſtrait) <hi>Amos.</hi> 6. 6.</p>
+               <p>
+                  <hi>Fourthly,</hi> The envy of Brethren is yet a Deep Sigh, be they by Nature, Nation, or Profeſſion ſo: It cut <hi>Joſephs</hi> Soul worſe then the Irons did, that Brethren owning the ſame God, ſhould conſult confinement in a Pit, and Captivity to baſe <hi>Iſma'lites</hi> and <hi>Egyptians;</hi> againſt him that came to ſeek, and feed them, and to ſcorn him as a Fanatick Dreamer, <hi>Gen.</hi> 37. 19, 20. Though after twenty Years, Conſcience gave them for that Guilt, a juſt reprimand: And envy was that which gave them ſo wicked a motion. <hi>Acts</hi> 7. 9.</p>
+               <p>No Perſecution of <hi>Pagans,</hi> or <hi>Papagans,</hi> ſo bitter and harſh as the Fraternal; for with it <hi>Cain</hi> began the World, and the cauſe was <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> diſſent in better Worſhip then his: And <hi>Iſhmael, Edom, Doeg,</hi> nay, the Men of <hi>Anathoth, &amp;c.</hi> have derived it down, to all the pureſt Prophets and Profeſſors ſince: Yea, the very devout vext <hi>Paul</hi> moſt: And the laſt named Perils, was by falſe Brethren; <hi>Acts</hi> 13. 50. 2 <hi>Cor.</hi> 11. 26. So now ſome may Sigh <hi>[Proh dolor! heu gemitus! Fratris ab enſe cado.]</hi> 'Tis ſad, to Sell and Kill for Gods ſake, and yet think we do God good Service. <hi>Joh.</hi> 16. 7.</p>
+               <p>
+                  <hi>Fifthly,</hi> To be ſlander'd in our good name vyes with that of envy: It be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng as heavy to be blaſted in our juſt Credit for Evil doers, (As <hi>Joſeph</hi> was) as to be hated for well doing: For this, <hi>Joſeph</hi> had his mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>timus to Priſon, with Irons: So had <hi>Jeremy;</hi> and Men ſhut up under ſuch <hi>Odious</hi> are half murder'd, afore-hand; and rendred incapable to make their <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> defence take away the crime, of the ill Name of Sedition, Faction, Schiſm, Hereſie, Rebellion, given to <hi>Paul,</hi> (as <hi>Acts</hi> 6. 13. 24. 5, 14. Chap. 28. 22.) and ſo the Offence ceaſes: 'I was a com<g ref="char:EOLhyphen"/>plaint <hi>Jeremy</hi> made to <hi>Baruch. Chap.</hi> 26. 5. I am ſhut up and cannot) go to the Houſe of the Lord: An heavy privation, to be ſtript of, and con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in'd from the Place, and Priviledge of Divine approaches, 'tis grie<g ref="char:EOLhyphen"/>vous
+<pb n="3" facs="tcp:57010:4"/> to any, far more to a Prophet: And thus <hi>Daniel</hi> was accuſed, as <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>—and caſt into the Den of Lions, that yet was able (in's juſt de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) to tell the King (when he better adverted on's Innocency) that <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> him, he had done no hurt. <hi>Dan.</hi> 6. 22. But for ſuch, ſo to ſuffer, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Sighs. Were it not for the Slander of that <hi>Miſtreſs</hi> of Whore<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (in our Day) the Pious Chaſtity of our <hi>Joſephs,</hi> might eſcape <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Priſon: But God reſcued him from the Hungry Lyons, of both ſorts: <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> brought him forth, and clear'd his Innocency to the King too: <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> vertue Slandr'd, and the Innocent puniſht unconvicted to gratify ra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, may cauſe a deep Groan. 'Tis a ſad Word that in <hi>Zach.</hi> 11. 6. And <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> fulfill'd on the Jews, in Chriſts time.</p>
+               <p>
+                  <hi>Sixthly,</hi> Some Circumſtances adjunct to confinement, add wegh of woe, to it: As when 'tis by the rigour of Laws ſtretcht on the rack; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> makes it ſharp; or by Laws Surreptitiouſly got, as that Decree a<g ref="char:EOLhyphen"/>gainſt <hi>Daniel</hi> was: Or by ſuch men as ought to be a Terrour to the ill; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Praiſe to the good; when it's otherwiſe, what Groans enſue? So <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Religious Conſcience, or the Law of our God is concerned in the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>: as in <hi>Dan.</hi> 6. 5. There being no greater Cruelty, then to impe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Worſhip, or impoſe a falſe, 1 <hi>Sam.</hi> 26. 19. This is to pull <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> from the Breaſts, and cauſe Souls to pine away, for want of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Broad of Life: Oh the Deep Sighs that this ſends up every <hi>Sabboth,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Ears of the Lord of <hi>Zabboth,</hi> a late! And if denying Corn, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Curſe, what Curſe follows the reſtraint of thoſe that would di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it, and cannot? O how does it Gratify the Papiſts, to ſee <hi>A<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> rules for reſtoring Popery, ſo Obſerv'd, in Suppreſſion of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> moſt noted Diſſenters Lectures!</p>
+               <p>Nor is a Priſon a ſweet Place, to be amongſt Malefactors, as <hi>Joſeph</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, ſtript of the Company of Relations, lockt up by others, and kept <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> doing good to the Souls of Criminals: Put to the Charges of Fees, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and ſuch Contingencies; in ſix Months, that would keep our <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> twelve Months: And all out of a Precarious income, that laſts <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>ad libi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um:</hi> And it's no eaſy thing to hear the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anting Swaſhbucklers Oaths, Healths, Taunts, and Blaſphemies, that daring Fellons Belch <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> againſt God, and Innocents, as if Religion were a Crime: Nor is is a ſmall Circumſtance, for Men whoſe Education, and Parts, Birth, and Breeding, (beſide Divine habiliments) have rendred Pregnant for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in their Generations, to be coop't up in a Hole, or Den, for a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, or Trifle; having nothing to do, ſave to write their own Life, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> rather Death <hi>Politicially)</hi> Nor can we (as <hi>Paul,)</hi> Preach to the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or to Friends, which might ſweeten a Priſon, and beget Souls <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God, in our bonds, as <hi>Oneſimus</hi> was: and <hi>Vergerius</hi> did to a Ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <pb n="4" facs="tcp:57010:5"/>
+               <p>But eſpecially to be Depriv'd of publick uſe to our Native Land, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> made Home-born Slaves Suſpended from our Duty, Cited, and Spited for it, Ejected from places of uſe, and Dear paid for, not allow'd a hired houſe, <hi>Acts</hi> 28. 30. nor to Exhort four in our Chambers: (that the Law allows us) and this without Jury, Oath, or Conviction, and in a Prote<g ref="char:EOLhyphen"/>ſtant Nation, <hi>&amp;c.</hi> This is <hi>Lugendum &amp; Luendum Nefas,</hi> and calls <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> great Wrath on the Land: To which, Oh how many add? and th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e that would ſtand in the Gap to turn it away, fail, and are miſuſed, mock<g ref="char:EOLhyphen"/>ed, as 2 <hi>Chron.</hi> 36. 16, 17. till no Healing, no Remedy can Obtain Oh, how fatal is this Work to Court, City, and Countrey, Let <hi>Zedekiah</hi> with his Succeſſours, the State of the <hi>Jews,</hi> the City of <hi>Jeruſalem,</hi> twice Wit<g ref="char:EOLhyphen"/>neſs: being the firſt time by the <hi>Caldees,</hi> the ſecond time by the <hi>Rom<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> Demoliſh'd; (both City and Temple) for Temple Rights, and Civil Franchiſes, ſtand, or fall together; if Gods Ark (his glory) be delivered up, our ſtrength will ſoon go Captive; Gods Prieſthood, and mans Pro<g ref="char:EOLhyphen"/>perties, being forfeit at once, by Male-Adminiſtration; next the Ark Truckles to <hi>Dagon:</hi> That ſo few ſee this, though ſo many will feel it is <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Groan.</p>
+               <p>To all the Adjuncts may one Circumſtance more of the time be added, that 'tis for ſo long time: 'tis ſaid of the King of <hi>Babylon,</hi> he opened not the Houſe of his Priſoners, when he deſtroyed Cities, and made the World as a Wilderneſs, <hi>Iſaiah</hi> 14. 17. <hi>(i. e.)</hi> not for a long time; 37 years <hi>J<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>achin (Joſia</hi>'s Brother) lay in Priſon, till another Succeſſour) <hi>Evil<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>dach</hi> Enlarg'd him, as 2 <hi>Kings</hi> 24. 15, 17. chap. 25. 27. 29. This was <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Nebuchadnezzars</hi> time, from the firſt Captivity: This was long enough, to dwell in the Pit: ſome are put to long Durance, and Patience, So was <hi>Joſeph</hi> alſo, his Youthful time ſpent in this, and ſuch like Sufferings and <hi>Paul</hi> puts it among the Adjuncts of his Croſs; Aged, and now Priſon<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> too; <hi>Phil.</hi> 9. and to be at laſt Dedicated to a block, and lictor, was a palt of <hi>Nero</hi>'s Rage; and he Suffered Priſons often, (by one Six Months <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> out, another Commences,) in Priſons more frequent, ſo 2 <hi>Cor.</hi> 11. 23. and Deaths often, and though the Lot of all goes not that length, yet either the Duration, or Iteration of this Croſs, or ſome Adjunct annext, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Exile, and Captive too, (ſo <hi>Iſaiah</hi> 51. 14.) or want, or cloſeneſs, or elſe Sickneſs (joyn'd <hi>Mat.</hi> 25. 43.) or as Vagrant, as in <hi>Iſaiah</hi> 49. 21. <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> any of them, (far more if all be conjoyn'd) add weight: So Temptation, Deſertion, Dejection, Conjoint, do make a Priſon as a dark Dungeon, to be ſhut up ſo; that bitter Complaint Suits it of <hi>He<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>n</hi> (though a wiſe Soul) I'm ſhut up that I cannot come forth, <hi>Pſal.</hi> 88. 6, 8. this twiſts the bands double and treble, the wreath'd Irons are ſharpeſt, the wrath of man alone is hot enough, of God hotter, both United intollerable: no get<g ref="char:EOLhyphen"/>ting forth, till he that binds looſen, and ſay to the Priſoners, come <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:57010:5"/> again. One at Liberty is ſad Fetter'd thus, but one ſo in Priſon, is now <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Pit, like <hi>Jeremys</hi> full of mire; or <hi>Joſeph</hi> in which is no Water, 37. 24. as theirs in <hi>Babylon</hi> was; no Water of Comfort, though <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of Gall and Affliction. Oh how pining and diſmal like, looks <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Priſoner now? If the Light of Gods face, makes a Priſon a Palace <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>: to want it now is to be in a Hell, on this ſide Hell: and 'tis the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Miſery, (therein) once to have been happy.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> one Groan more as to this, (and a ſad one) The Devil he caſts <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Subſtitutes) the Saints ſome of them (and would do all) into Priſon, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 2. 10. ſo does he Labourers, to ſet up Loyte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers, hinder the Goſpel <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ruine Souls: ſays he, Oh theſe Ring-leaders of Faction diſturb the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of my Kingdom; rob me of my Vaſſals, caſt me out of my Poſſeſſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> (long held by Preſcription) I hate the <hi>Micaiahs,</hi> they never ſpeak good <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> me, or my Laws, but Evil: So he rais'd envy (oft in the devout) a<g ref="char:EOLhyphen"/>gainſt both the firſt and beſt of Preachers, in all ages. 'Tis well to be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oted, that <hi>Apoc.</hi> 2 10. is Uſher'd in with a behold! to note, when Saints are ſhut up, all ſhould mind well the Inſtruments of ſome's Commit<g ref="char:EOLhyphen"/>ment: For though the intermediate cauſe was Man, <hi>(Diocleſian)</hi> yet 'twas <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Devil ſat on the bench; or (as the Greek is, <hi>Apoc.</hi> 2. 13.) on the Throne <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ce he Emits Vaſſals, diſſolves Aſſemblies, ſends out <hi>Judas</hi> like In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mers, or Sycophants; convicts without Oath, confines without Law, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhes without Fault, and condemns without Juſtice; for where he dwells there can be no worſe Neighbour: And the purer they be, the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rſe is his Enmity to them. To ſay the Devil dwells in <hi>Ruſſia, Rome,</hi> or <hi>China</hi> is ſad enough; but that he dwells at <hi>Britain</hi> or <hi>London,</hi> where Chriſt and the Goſpel have Obtained, is far ſadder. That Satan ſhould put his Mantle on <hi>Samuels</hi> ſhoulders, was Serpentine Craft, becauſe it decely'd a King; but to lay his Cloven Foot on the Throne of God, and abuſe the Scepter of Kings, invading the place of the Holy, to pervert Judgment, and puniſh the Pious; Cauſes far deeper Sighs. Let none Judge our Sighs mixt with bitterneſs, or undue Reflections; for as good as <hi>Peter</hi> was, Satan was too hard for him, and if he inſinuated into the Prince of the Apoſtles (as ſome call 'im) who is Exempt from his Py<g ref="char:EOLhyphen"/>thonology, How many Countreys (Chriſtian by Profeſſion,) does he pervert to a Scarlet Inquiſition?</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> (And laſt) Sigh turns to a Supplication: Not to Man for a Releaſe, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to God for Relief: Sighs Iſſue well that drop ſo in Gods Ear, were it poſſible to read without the Walls, what Petitions drop on the inſide, they would be found to be theſe, or the like.</p>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord, that thy Kingdom might come in Power, over the Nations, and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, that the Priſoners in the Pit might be Viſited, as <hi>Iſaiah</hi> 24. 3 laſt, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> That the Lord will appear in's Glory to build up <hi>Zion,</hi> to hear the Pray<g ref="char:EOLhyphen"/>er
+<pb n="6" facs="tcp:57010:6"/> of the low Shrubs, and the Groaning of the Priſoners, and deliver the Sons of Death; that the Propheſies may be Fulfilled that Relate to the latter day Glory; and the Captive Exile may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſten out of the pit; and in the mean time, their bread mayn't fail, <hi>Iſaiah</hi> 52. 14. That Judgment and Righteouſneſs might be in the Earth for the poor and oppreſt. <hi>Pſal.</hi> 72. 6. 13. that wrong doers may be brought to account, that juſt Law<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may be Impartially Executed, and unjuſt Null'd, and the Goſpel may be further'd, by Satans hindring of its Preachers: that the Sabbath may not be forgot, nor Aſſemblies of Saints for ever ſcattered, but the Days of our Diſperſion may be Finiſhed, that the Reproach of the ſolemn Meetings, may be wiped off, and the Rebuke of his Folk took out of the Earth: that the Lambs now ſcattered may be gather'd in a Cloudy and Dark day, and the great Shepherds preſence amongſt them; that the Children cries may be heard in the ſtreets, ſeeking meat with tears in the Eyes, and hungry Hearts; Saying, Oh, who'll give us Bread to Relieve our Souls? Look what Sighs the Famine of Bread Forces from the Hungry, in a time of Natural Drought ſuch (nay far more dolorous) are extort from Souls pluckt off the Breaſts of Scripture Conſolation; and Tempted to eat po<g ref="char:EOLhyphen"/>luted or poiſoned bread, and ſit at the Table of Devils, theſe the leaſt of them (often Itterated and Inlarged) may be found writ on our Priſon walls, and with them much Incenſe added to our how-longs, and are gone up in the Ears of the Lord God of <hi>Zabbaoth,</hi> and will ſurely Obtain both Vengeance on ſome, and Recompence on others.</p>
+               <p>Now by theſe hints may be gueſt what work is on Foot in the houſe of our Priſon, and for our Hopes and Supports, they may deſerve a ſecond part. We Conclude the firſt part thus</p>
+               <lg>
+                  <l>
+                     <hi>Clamitat in Caelum, vox ſanguinis, &amp; Sodomorum;</hi>
+                  </l>
+                  <l>
+                     <hi>Vox oppreſſorum, &amp; merces detenta Laborum.</hi>
+                  </l>
+                  <l>
+                     <hi>Bloodſhed, with</hi> Sodomy <hi>'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d oppreſſion <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>,</hi>
+                  </l>
+                  <l>
+                     <hi>And Laborers hire detain'd to God on high.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part.</head>
+               <p>AS this World allows us no comfort, without Croſſes mixt, ſo God ne<g ref="char:EOLhyphen"/>ver inflicts Croſſes on his, but Crowns them with Conſolations not a few; ſo Preponderating one by the other, that 'tis better to enjoy them both, then to be exempted of the Croſs wholly.</p>
+               <p>Nor is Liberty (tho' in it ſelf very ſweet) when a ſnare, and Terror attends it, ſo deſirable, or Bonds ſo heavy, but God can, and frequent<g ref="char:EOLhyphen"/>ly does, make the latter Evil more Eligible, then the former good, by the adjunct of his own comforting Preſence.</p>
+               <p>Now that which makes Bonds eaſy, and Priſons ſweet, is this, when a Man can appeal to God, and the World, perhaps to ſome of his Ene<g ref="char:EOLhyphen"/>mies Conſciences, that he Suffers not as an Evil doer, or Criminal; So <hi>Daniel</hi> was faultleſs before (both) the King, and all his Accuſers; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in the Law, and matters of his God: <hi>Dan,</hi> 6. 5, 14, 22. And ſo the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:57010:6"/> freely Confeſt, Chriſt had done nothing amiſs; <hi>Gr.</hi> 
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+                  <hi>Luk.</hi> 23. 41. <hi>nil inconveniens,</hi> nothing awry, abſurd, or out of place: and <hi>Jeremy</hi> was vindicated by the Princes, againſt thoſe Malitious Prieſts, that ſought his Blood, ſince he had done nothing worthy of Death, and what he ſaid, was in the name of the Lord: And the Elders (his Jury) with <hi>Ahikam)</hi> ſeconded them, and clear'd him; ſo his confinement was not Death; nor very long, (tho' itterated) for at laſt he was relieved, and (that's a wonder) at the ſacking of the City, by <hi>Nebuzaradan,</hi> and releaſt, to go at Liberty: When his Malicious Natives went Captives. Let good Prophets be Faithful to their Maſter, and Meſſage, and tho' Country Men vex them for their fidelity, God will make even <hi>Babilonians</hi> Favour them for their Miſery, or ſet them at Liberty.</p>
+               <p>Such Urbanity ſhew'd the <hi>Romanes</hi> to <hi>Paul, Acts</hi> 23. 30. Chap. 23 29. Innocency, and a good Conſcience<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are ſtill a good Plea (tho' not ever Succeſsful) and at laſt obtain with God, and Men, and often do more for the Honour, or diſcharge of a good Man, then all the Shifts that com<g ref="char:EOLhyphen"/>plying Politicians, uſe for themſelves.</p>
+               <p>But negative Comforts are not all: Tho' it's ſweet not to Suffer as an Evil doer; There are ſome poſſitive Supports, that Strangers inter<g ref="char:EOLhyphen"/>meddle not with, known only to them that taſte them, valuable above all Riches; and adapted to the Nature of our Teſtimony.</p>
+               <p>
+                  <hi>Firſt,</hi> This has been the lot of the beſt in all Ages, and for a good cauſe, tho' by the worſt of Men; <hi>Joſephs</hi> chaſtity could not excuſe him; nor <hi>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>caiahs</hi> plain dealing, nor <hi>Jeremy's,</hi> nor <hi>Peter's:</hi> Nay, <hi>Paul's</hi> Goſpel, (tho' an Embaſſy of Peace) even that expoſed the Apoſtle; Preaching oft does <hi>in ſe derivare furorem mundi.</hi> One met with that Angel of God, <hi>John Bradford</hi> then in Priſon; ſome ruſled in their Pri<g ref="char:EOLhyphen"/>ſon-ſtraw, in the <hi>Marian</hi> Days, with more true Content, then others did in Sattin, and Velvet: And good cauſe for't, God is our Soveraign Diſpoſer, and may need or call for our Liberty, or Life, at pleaſure; and we are to reſign it, in the ſervice of his Name, and Truth; as of more uſe then all our Preaching.</p>
+               <p>Beſide there comes a Worldly ruſt oft on our Graces, (Silver has it's droſs and ruſt;) and a Priſon ſerves (like the Scullions Office) to rub us bright, for the Lords Fable; or the Summer Parlour: The Zeal of a Poor Maid (ſay <hi>Alice</hi> Driver, or ſuch a one) ſhines more on Gods ſhelf, then all the learning of X Biſhops of <hi>Cant:</hi> or <hi>York;</hi> Spices ſmell beſt, and Graces ſhine moſt, when hard Rubbed. This School of Adverſity has accompliſh't ſome (in Experience) for God, better then the Uni<g ref="char:EOLhyphen"/>verſity has, and to better Uſe.</p>
+               <lg>
+                  <l>
+                     <hi>Now to ſhare in Society with the choiceſt Saints is great Support—</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> miſeris, ſocios habuiſſe doloris.—</hi>
+                  </l>
+               </lg>
+               <p>To bear (as <hi>Simon</hi> did) with <hi>Chriſt,</hi> who (ever) takes the heavier
+<pb n="8" facs="tcp:57010:7"/> part of our Croſs, yea and helps us to bear the lighter too, is no ſmall alay to its weight: And all Saints have ſo often ſince ſhared, that the Croſs is (by handling often) planed ſmooth, and worn light. Bad aſſo<g ref="char:EOLhyphen"/>ciates may make Liberty uncomfortable, and good, makes bonds eaſy. For</p>
+               <p>
+                  <hi>Secondly,</hi> God is alſo preſent, and ſo was he with <hi>Joſeph. Acts</hi> 7. 9. And ſo with <hi>Jeremy:</hi> Chap. 20. 11. This is no little Honour and Succour; what it imports is not to tell in a few words.</p>
+               <p>Sometimes it means, a Glorious preſence in Duties and Ordinances. This is promiſed to that Temple-State, by the Name <hi>Jehovah Shammah.</hi> So <hi>Ezek <g ref="char:V">Ʋ</g>lt.</hi> Sometimes the Incarnation of Chriſt is noted by it, as in the Title <hi>Immanuel:</hi> Sometimes the Succeſs of all affairs, as in <hi>Joſephs</hi> truſt, and <hi>Davids</hi> War: And oft it denotes good ſucceſs in our Prophe<g ref="char:EOLhyphen"/>ſying, <hi>Acts</hi> 18. 10. But moſt uſually it notes Support in our Sufferings for Chriſt, and the Goſpels ſake<g ref="char:punc">▪</g> Such as <hi>Jeremy, Steven, Paul,</hi> (of old) and the <hi>Martyrs</hi> a late had in all Ages paſt: Nor needs a Man more to be happy: now whatever it may intend in itſelf; as Glorious it ſhows in its effects; this has a Spirit of Glory reſting on them that have it, what<g ref="char:EOLhyphen"/>ever ſhame, or reproach comes for Chriſts name and ſake: As in 1 <hi>Pet.</hi> 4. 14. This in bonds, is True Liberty, and gives light in darkneſs: 'Tis that Precious Stone, that was the light to <hi>Noah</hi> in the Ark; whilſt God ſhut him up above twelve Months, which <hi>H. A.</hi> Notes; and let our confinement be what, and how long it will, he that ſhut <hi>Noah</hi> in, <hi>Gen.</hi> 7. 16. call'd him out again, Chap. 8. 16.</p>
+               <p>This makes darkneſs light, a Den of Thieves, an Houſe of Prayer, the deteſtable Dungeon <hi>Leonine,</hi> a Garden, or Palace of Chriſt: And by this preſence a <hi>Gridiron,</hi> or a fiery Furnace converts to a Bed of Roſes, or pleaſant Gallery in which Chriſt walks and talks with us: And often do Perſecutors, both ſtumble, and fall at this rock, as <hi>Jer.</hi> 20. 11. He be<g ref="char:EOLhyphen"/>lieved, and <hi>Macaiah</hi> of old found, whom <hi>Ahab</hi> committed, and ſee why, and what came of't? 1 <hi>King.</hi> 22. 8.—v. 27, 28, and 34. compared.</p>
+               <p>The like found <hi>Herod. Acts</hi> 12. <hi>
+                     <g ref="char:V">Ʋ</g>lt.</hi> &amp; if not this, yet none can expreſs the love of God, the Joy of Chriſt's ſmiles, the Spiritual Liberty, the Inlarge<g ref="char:EOLhyphen"/>ments in Prayer, the Content of mind that's here, ſave thoſe that find them.</p>
+               <p>3<hi>dly,</hi> Since Gods preſence Seals not to a blank, our cauſe is good, 'tis <hi>Chriſt</hi>'s cauſe of which none ought to be (nor are we) aſham'd: The well ſtrating of which, is a key to let in Comfort to a Pris'ner for Chriſt's ſake, 'tis no ſmall relief to be marry'd to a Croſs of Chriſt's chooſing for us, he ever intailing on't what coſt the Patient Bearers need, to Bear all the Charges of it.</p>
+               <p>If any ask Pris'ners what our cauſe is? We ſhame not to ſay, this is the cauſe we Suffer for, and dare venture further then to Priſon, in its De<g ref="char:EOLhyphen"/>fence, <hi>viz.</hi> The Royal dignity, and primacy of Chriſt over all <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+                  <hi>Col.</hi> 1. 18.) the Glorious Liberty of the Goſpel, in both the Profeſſion of its Faith, purity of its Worſhip, and its Liberty
+<pb n="9" facs="tcp:57010:7"/> of Propheſie: We Suffer for not ſwearing, to what we do not underſtand: And becauſe we dare not ſay (far leſs Swear) there needs no alteration in Rule, Civil, or Sacred, when all things need it ſo much; ſo it be for the better. We Suffer for Preaching Chriſt, and ſeeking to win Souls to him by the word; for living in a City corporate when its Franchizes are diſ<g ref="char:EOLhyphen"/>corporate, and forfieted to the King: And for Praying for its Peace, reducted to <hi>Babel:</hi> And for the Controverſie of <hi>Zion,</hi> and her ſtones in the duſt: Nay for dwelling Praying in our Famillies, from which had we departed, we ſhould ſuddenly have been ſeiz'd, and ſuſpected for <hi>Pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ters:</hi> And they that commit us, do now force us to live in Lo—who now's in the fault?</p>
+               <p>Theſe (in part) are our Pious Offences. And in all, we dare with our dying Breath, Sigh out our appeal, to the laſt Judge, that will one day (perhaps in the Body) call us and our Perſecutors to a ſecond fair hearing: And at preſent we may onely ſay (as once <hi>David</hi>—1 <hi>Sam.</hi> 26. 19.) if the Lord have incenſed—but if <hi>&amp;c.</hi>—or as <hi>Micaiah,</hi> if ſuch re<g ref="char:EOLhyphen"/>turn in Peace—God has not ſpoken by us: Hear ô People, <hi>&amp;c.</hi> 1 <hi>Kings</hi> 22. 28. Not doubting God is on's way, to Judge and Plead.</p>
+               <p>
+                  <hi>Fourthly,</hi> Our uſe is not deſtroy'd by a cloſe Priſon, our Walls may be others wells, as <hi>Iſrael</hi>'s rock gave out both Water and Hony too: Our confinement corporally, may prove others Liberty Spiritually: For the word is not bound. Thus <hi>Jeremy</hi> had a word from God in the (preſs yard or) Court of the Priſon. <hi>Chap.</hi> 32. 2. As a promiſe of Liberty; and as a ſign, bought Land there; for nothing is too hard for God, <hi>vers</hi> 17. 27. and what got not vent by a Pulpit, he propogated by his Pen: as <hi>Chap</hi> 36. 2, 5, 8, 19. 28 32. And in a ſecond Edition, and with ſome Additions too. So did <hi>Paul;</hi> A Priſon for Chriſt is an high (tho' hard) Pulpit, and a good Pen may be a cloven Tongue, loud, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orid; <hi>Paul</hi> is converted Young, and Preacht long, but a Priſoner aged: as <hi>Phil.</hi> 9. <hi>Ephe'.</hi> 4. 1. And then wrote, (when he could not Preach) ſeveral of's <hi>Epiſtles,</hi> how be it in's Body, he bare the <hi>Stigmatas</hi> of the Lord Jeſus: <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>—be it a literal brand, or ſome <hi>Odium</hi> of reproach (as Factious, Seditious,) I ſay not: Yet ſtill the Goſpel got ground; Chriſt wins more Souls to the Truth by <hi>Paul</hi>'s chaine, and his True Succeſſors in Priſon; then by <hi>Epiſcopal</hi> palls, and <hi>Lawn</hi> ſleeves: When Biſhops began to ruſle in Sattin, a Voyce was heard <hi>[Hodie vene<g ref="char:EOLhyphen"/>rum in Ecoleſiam funditur.]</hi> As Flint and Steel; the <hi>Colliſion</hi> of two hard things (mans <hi>enmitie,</hi> with Gods Truth) brings out a more Sparkling Glory to Chriſt: Grace and Truth ſhine brighteſt (as Diamonds) in the dungeon. It matters little where the Pulpit ſtands, ſo many hear, learn, and edify. Some Sermons are Preacht to few, in one place, or Age: But thoſe are well Preacht indeed, and loudly Canorous, that make thouſands abroad, nay after Ages to hear, as <hi>Eph</hi> 2. 7. And ſee the exceeding Riches of his Grace: Some of us were pain'd in our ſilence, and gravid of our Sermons
+<pb n="10" facs="tcp:57010:8"/> till ſafely laid in, and brought to bed in <hi>N G.</hi> and other Priſons; and now our <hi>Mr.</hi> (nay our Enemies) have took our Teſtimony (for Chriſt) off our hands, got us viſits, and forc't us to live (ſafely log'd) in a corporation: Yea eas'd us of our Duty to Souls; and beſides took the guilt of our ſilent <hi>Sabbaths,</hi> on themſelves: And now our cry is on them, be the Blood of Souls, Lo! we are clear and free.</p>
+               <p>
+                  <hi>Fifthly,</hi> Cryes are hence aſcending not only our own, but others for us: And that of divers kinds For how can the oppreſt hold? Prayers have a cry, like that of the poor Widows for vengeance and at laſt obtains, the Lambs that are ſpoil'd of the green paſtures, and expell'd to common, cry; and ſay as <hi>Ezek.</hi> 4. 14. or <hi>Peter, Acts</hi> 10 14. Lord, we never eat what was <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, common, or Polluted. And the bleating Sheep, in the Wood and Pits, cry, as <hi>Mica.</hi> 7. 14. Feed thy flock that dwell ſolitary: So do the Darlings that like <hi>Joſeph,</hi> are in the Pit, cry; and though men hear not the anguiſh of their Souls, (like his, <hi>Gen.</hi> 42. 21.) God ſurely hears. The very wrongs (themſelves) ſuffer'd, have a Cry; often in the Conſciences of Oppreſ<g ref="char:EOLhyphen"/>ſors; and is not ſtill'd, till Exonerate.</p>
+               <p>
+                  <hi>David</hi> cry'd to the Moſt High out of the Low Deepes, and never reſt<g ref="char:EOLhyphen"/>ed till God pull'd him out; and ſet his Feet on a Rock, and perform'd all for him; <hi>Pſal.</hi> 40. 2. 130. 1. 140. 5, 6, 12. 142. 1, 5, 7. and brought him out of Priſon; If one can Pray, and make the Walls, or Mountains Eccho again; no Diſtreſs, or Bonds will reſt long: The Holy Unction of Prayer will ſupply the hard knots, reſolve the Fetters of Braſs; <hi>Pſal.</hi> 107. 10. 13, 14. and ſerve as a Golden Key, to open all Doors of Iron, of themſelves: <hi>Acts</hi> 12. 10. This was an Effort of Prayer <hi>EKTENES</hi>—drawn out for <hi>Peter,</hi> v. 5. So was <hi>Paul</hi> freed of old, and <hi>Larmouth</hi> a late, when at Prayer, a piece of the Priſon-wall fell down, and a Voice called him out. If the Mountains, Timber, Stones, may ſpeak, and cry (as once, <hi>Ezek.</hi> 7. 7. <hi>Habac.</hi> 2. 11 <hi>Luke</hi> 19. 40.) why not our Priſon-walls? They that think to deſtroy Religious Aſſemblies for Prayer and Propheſy, by ſhutting our Doors Seizures and Confinements, may conſider whether they do not by violent practices rather propagate them: and tho' they ſhould ſcatter us, they do but truly multiply us; and for one Meeting of many together, cauſe ten and twenty perhaps an hundred) to grow out of the ruines of that one; ſo impoſſible is the purpoſe a foot, of ſuppreſ<g ref="char:EOLhyphen"/>ſing us totally. If the Tears of a Widow, one Orphant, or Oppreſt, cry ſo loud to God, what will the Cry of Blood, and Souls under the Altar obtain, that are ſlain for the Word of God, &amp; Teſtimony they held to the very laſt?</p>
+               <p>6thly, As Cryes hence are many, ſo mighty, God heard and was with <hi>Joſeph,</hi> and <hi>Daniel</hi> in the Den; and ſo heard every Groan, <hi>Pſal.</hi> 102. 20. <hi>Nexorum ut gemitus audiat</hi>—As <hi>Bucha?</hi>—Chriſt was pleaſed to declare both his care of, and concern'dneſs in his; by the procedure of the Final Judg<g ref="char:EOLhyphen"/>ment, <hi>Mat.</hi> 25. 36, 43. both in rewarding the Sheeps and the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:57010:8"/> the one for viſiting him, the other for the neglect of it; and takes what is done, or omitted to his little ones, as unto himſelf. So the Reproach<g ref="char:EOLhyphen"/>es in <hi>Aegypt,</hi> are called Reproaches of Chriſt, <hi>Heb.</hi> 11. 26. (or for him) which as it carryes a Rebuke (on the firſt view) for the omiſſion that ſome excuſe too eaſily; So it ſhows both what a good Maſter and Advocate Chriſt the Judge will be, on whom we may draw all our Bills of Exchange, and (on ſight) our Benefactors will receive payment in full, for every good work: and alſo what revenges he'll take for lawleſs confinement of his Saints and Witneſſes, that Labour'd in his Word and Name: If he's an<g ref="char:EOLhyphen"/>gry at omitting to viſit his, far more at commit<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing them to Goals. Nor will it excuſe, to have been civil to them, (as <hi>Pilate</hi> ſcourging Chriſt, to releaſe him) or to ſay, 'twas but according to Law, <hi>&amp;c.</hi> for if Humane Laws, may be once allow'd to thwart with the Divine, <hi>Daniel</hi> and the three Children were far out, and the Apoſtles too, <hi>Acts</hi> 4. 19, 20. 5. 28, 29. in expoſing themſelves to needleſs Sufferings, (as one lately avers) for a Moat, or Rite: But <hi>Fides Venales,</hi> and a Cheveral Conſcience, we ſtill deteſt, and demur on our Cauſe, and appeal to the ulmitate Judgment.</p>
+               <p>In the Interim, expecting that a word will come, like <hi>Joſephs,</hi> from God, or Men; (Preceptive, or providential,) to free us: For the Lord will not caſt off forever, nor will he approve to cruſh underfoot <hi>(Lam.</hi> 3. 34.) all the Priſoners of the Earth: And if it be not True of the Lyon, to ſpare what is proſtrate, nor proper to Kings to open Dens, and call Prophets out: Yet God himſelf will do it: And if our hopes fail here, and we dye in the Pit as one alate did, that may not fail, there's a General <hi>Jaol</hi> delivery at hand.</p>
+               <p>And ſo 7ly, and Laſtly, 'tis an allay to Confinement to be aſſur'd the time is confin'd, and ſet, by him that bounds rage of Man, and turns it to his praiſe. 'Tis a Title given to God (with other attributes,) the Lord foreſeeth Priſoners. <hi>Pſal.</hi> 146. 7. So he did of old by <hi>Joſeph,</hi> and ſo to <hi>Peter, Paul, Silas,</hi> and ſo to many in the <hi>Marian Days;</hi> and ſome condemned to Death: I mean not only at Death, which is the final deliverance, when the Pris'ners reſt together, they bear not the Voice of the Oppreſſors, and the weary be at reſt: <hi>Job.</hi> 3. 17, 18. But in life (oft) God owns that Title. For, 'Tis a part of Chriſt's Office (by <hi>Propheſie)</hi> to open the Priſons to them that are bound: And to ſay to them come forth and feed—<hi>Iſai.</hi> 42. 7. 49. 9. He alſo paid the Ranſome, after which, 'tis unjuſt with Men, to hold them faſt; the Blood of the covenant, is ſo valuable a price to God, that it builds a ſtrong hold of Hope to us; our fleeing to't, is both ſafety, and diſcharge. <hi>Job.</hi> 33. 24. I have found a Ranſome, my Son paid it, (ſays the Father) and now go open the Doors, and bring them out, with gladneſs.</p>
+               <p>Beſides, Experience verifies the facts <hi>Joſeph</hi> lay but untill his word came. <hi>Pſal.</hi> 105. 19. Gods Word in the promiſe, becomes ours in performance; and that which tryed his Faith, freed him, at laſt.</p>
+               <p>Nor are Examples wanting how this is done in all Ages, both Ordinary,
+<pb n="12" facs="tcp:57010:9"/> and wonderful; whereof all ſtorys are well fraught: Sometimes the Rulers themſelves that detain'd them unjuſtly, releaſe them (on better advice) more juſtly; as <hi>Pharaoh</hi> did <hi>Joſeph; Darius</hi> did <hi>Daniel:</hi> Breaking an unre<g ref="char:EOLhyphen"/>pealable <hi>Perſian</hi> Law, to do it <hi>Dan.</hi> 6. 23, 24. Becauſe he truſted in's God: So they that (earſt) had ſhut <hi>Paul</hi> up, are glad precariouſly, to perſwade him out; <hi>Acts</hi> 16. 37 39. as not able to juſtify that illegal confinement.</p>
+               <p>So was that Earthquake, a wonderful mean of his diſcharge, tho' under a double reſtraint: <hi>ver.</hi> 24-26. God will ſhake the foundations of the Pri<g ref="char:EOLhyphen"/>ſons, rather then ſuffer his Embaſſadors of Peace to be long ſhut up, as Pris'ners of War: Sometimes Prayers are drawn out at length, to draw them out; and ſo <hi>Peter</hi> was reſcu'd by an Angel, <hi>Acts</hi> 12. 5, 10. And (now and then) the Angel knocks a <hi>Herod &amp;c.</hi> on the Head (as with the Key) <hi>ver.</hi> 23. and ſo the word grows, and multiplies; being water'd both with the Blood of <hi>Martyrs,</hi> and at laſt of Malicious Perſecutors. Some condemn<g ref="char:EOLhyphen"/>ed to dye in flames, were by Queen <hi>Marys</hi> Death free'd.</p>
+               <p>And if the time be ask't for, one <hi>Pſalm indigitates</hi> it, when God appears in's Glory to build <hi>Zion,</hi> to hear the Prayer of the lowly, and deſtitute, and to look from's <hi>Sanctuary</hi> on the Earth, and hear the Groaning of the Pris'ners, and loſe the Sons of Death, as it is in <hi>Pſal.</hi> 102. 13, 15, 27. 19, <hi>&amp;c.</hi> to 22 <hi>ver.</hi> (A Glorious Prophetick <hi>Pſalm.)</hi> And tho' the time be pro<g ref="char:EOLhyphen"/>long'd, and ſome may drop (as ripe Figs) ere it's accompliſh't: Yet by the encreaſe, of the guilt of ſome, and the Cryes of oppreſſed Souls at and un<g ref="char:EOLhyphen"/>der the Altar, it cannot be long; it's ſeldom ſeen but violence to Sacred matters, is aveng'd in the ſame Age, 'tis committed: As the Eagles theft, of fleſh from the Altar, carry'd alive coal thence, that fired her neſt, young and all; tho ſome Sinners are bore long with, yet after Patience has ſuffer'd ſufficient abuſe, Divine Wiſdom, Juſtice (and goodneſs it ſelf) conſult a time, ſwiftly and ſpeedily, to repay recompences. <hi>Joel.</hi> 3. 4. <hi>Hab.</hi> 2. 7. <hi>Zac.</hi> 5. 1-4. <hi>&amp;c.</hi> And the delay makes a good (expected long, more Glorious.</p>
+               <p>Now if it be ſo, if thoſe be our juſt Groans, and if they aſcend on high; and theſe our preſent allays, for a fore taſte of better hopes, at the day of our full Redemption, and Kingdom of our Lord; let none grudge, if we impart of our Priſon ſcraps, to many abroad that Hunger: And ſay to any that own Humanity, or Chriſtianity; For the Lord's ſake, remember the Pris'ners: If not, we chear our ſelves in the dark (as ſinging Nightingales) hoping day, in this <hi>Gallicinium</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Corpus, mens, Oculus; Concluſum, Libera, Laetus;</hi>
+                  </l>
+                  <l>
+                     <hi>Est, Fruitur, Spectat; Carcere, Pace, Palum.</hi>
+                  </l>
+                  <l>
+                     <hi>The Body's ſhut up, the mind in Peace does lye;</hi>
+                  </l>
+                  <l>
+                     <hi>The joyful Eye, the Heavenly Pole does Spye.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="hymn">
+            <pb facs="tcp:57010:9"/>
+            <head>An Hymn on <hi>Canticles 4. 8.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>Jeſus from all Worldly Delights,</hi>
+               </l>
+               <l>
+                  <hi>And Sufferings too, his Spouſe Invites.</hi>
+               </l>
+            </lg>
+            <lg n="1">
+               <head>1</head>
+               <l>COme, O my Spouſe, with me come home;</l>
+               <l>From <hi>Leb'non</hi> haſt away</l>
+               <l>With me, from <hi>Lebanon</hi> now come,</l>
+               <l>From top of <hi>Amona;</hi>
+               </l>
+               <l>From <hi>Shenirs</hi> Top, and <hi>Hermon</hi> Hill,</l>
+               <l>From Dens of Lyons haſt;</l>
+               <l>And from the Leopards fierce, that ſtill</l>
+               <l>Thee on thoſe Hills do waſt.</l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>O come! that word Attracts my heart,</l>
+               <l>Who will not hearken to't?</l>
+               <l>For ſome muſt hear that word, Depart;</l>
+               <l>Lord bring us to thy Foot:</l>
+               <l>To come with thee, Lord, I'm content;</l>
+               <l>Wilt thou accept of me?</l>
+               <l>Tho' in the Lyons Dens I'm pent,</l>
+               <l>Grant there thy Company.</l>
+            </lg>
+            <lg n="3">
+               <head>3</head>
+               <l>But can't my Lord be well content,</l>
+               <l>Without my Fellowſhip;</l>
+               <l>In pieces me tho' Lyons rent,</l>
+               <l>I'le o're them Mountains skip.</l>
+               <l>Lord ſtay, for theſe Aſcents are hard,</l>
+               <l>From <hi>Leb'nons</hi> Sweet Delight:</l>
+               <l>Lead me along, and be my guard,</l>
+               <l>When Lyons me affright.</l>
+               <l>And when theſe Mountains I have paſt,</l>
+               <l>In thy Sweet Company;</l>
+               <l>To th' Hill of Spices me at laſt,</l>
+               <l>Conduct to be with thee.</l>
+            </lg>
+         </div>
+         <div type="hymn">
+            <head>The <hi>Phoenix,</hi> a Priſon-Hymn.</head>
+            <lg>
+               <l>LOrd, here I ſit alone,</l>
+               <l>My Liberty is gone:</l>
+               <l>My Miniſtry's reſign'd to thee;</l>
+               <l>Grant Sweet Communion.</l>
+               <pb facs="tcp:57010:10"/>
+               <l>I once did others Water,</l>
+               <l>Whom thou now let'ſt men ſcatter.</l>
+               <l>O Fountain free, now water me,</l>
+               <l>By what ſhall flow from thee.</l>
+            </lg>
+            <lg>
+               <l>My Teſtimony turn,</l>
+               <l>(Tho' this the fire do burn)</l>
+               <l>Unto thy praiſe, and after raiſe,</l>
+               <l>A Phoenix from its Urn.</l>
+               <l>As Birds that loneſome ſit,</l>
+               <l>Or <hi>Joſeph</hi> in the Pit,</l>
+               <l>Or ev'n as when the Pellican,</l>
+               <l>To Wilderneſs takes flight;</l>
+            </lg>
+            <lg>
+               <l>So Lord I to thee ſly,</l>
+               <l>To have good company.</l>
+               <l>Be thou my one companion,</l>
+               <l>For I'm content with thee.</l>
+               <l>And when my days are ſpent,</l>
+               <l>That here thou haſt me lent,</l>
+               <l>Now take me up with thee to Sup,</l>
+               <l>Where my Forerunner went.</l>
+            </lg>
+         </div>
+         <div type="hymn">
+            <head>An Hymn on <hi>Canticles 2. 14.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>I'th Clefts o'th' Rock (apart from Noiſe,</hi>
+               </l>
+               <l>
+                  <hi>Chriſt longs to hear his Doves ſweet Voice.</hi>
+               </l>
+            </lg>
+            <lg n="1">
+               <head>1</head>
+               <l>OH, thou my Dove (for ſecrecy)</l>
+               <l>In Clefts of Rock Retires;</l>
+               <l>In Secret Stairs that hid doſt lye,</l>
+               <l>Lo this thy Spouſe deſires:</l>
+               <l>Come forth, let me thy Count'nance ſee,</l>
+               <l>Fain hear thy Voice wou'd I;</l>
+               <l>For ſweet thy Voice is ſtill to me,</l>
+               <l>And Countenance comely.</l>
+            </lg>
+            <lg n="2">
+               <pb facs="tcp:57010:10"/>
+               <head>2.</head>
+               <l>No Secret Staires, no Clefts (at all)</l>
+               <l>VVherein Chriſt's Spouſe does dwell;</l>
+               <l>From Chriſt can hide; No Den, nor VVall,</l>
+               <l>Nor yet the Belly of Hell.</l>
+               <l>But even there our Cryes he hears,</l>
+               <l>And counts our face moſt ſweet:</l>
+               <l>Tho' moſt bedew'd with Briny Tears,</l>
+               <l>And proſtrate at his Feet.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>But, Lord, whence flows this Love and Grace?</l>
+               <l>How much to be admir'd?</l>
+               <l>That thou ſo long'ſt to ſee our face!</l>
+               <l>VVhy is our Voice Deſir'd?</l>
+               <l>A place there in our Rock now is,</l>
+               <l>VVhere Chriſt his Flock does hide;</l>
+               <l>The cauſe of his deſire is this,</l>
+               <l>And here we ſafe Abide.</l>
+               <l>But, Lord, haſt thou ſo great Delight,</l>
+               <l>In our Imperfect grace?</l>
+               <l>What Joys ſhall we have in thy ſight,</l>
+               <l>When we ſhall ſee thy face!</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
